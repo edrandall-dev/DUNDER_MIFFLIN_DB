@@ -1,0 +1,101 @@
+product_id,product_name,supplier_id,product_category,unit_detail,price
+1,Standard Copy Paper (Letter Size, 500 sheets),201,1,"Reams of 500 sheets",4.99
+2,Premium Glossy Presentation Paper (A4),202,1,"Pack of 250 sheets",9.99
+3,Recycled Copier Paper (Legal Size),201,2,"Reams of 500 sheets",6.99
+4,Bulk Box of Envelopes (White, #10),203,3,"Box of 1000 envelopes",14.99
+5,Sticky Notes (Yellow, 3x3 inch),204,4,"Pack of 12 pads",5.49
+6,Heavy Duty Filing Folders (Letter Size),205,3,"Box of 100 folders",12.99
+7,High-Quality Inkjet Printer Paper (Matte, A3),202,1,"Reams of 500 sheets",12.49
+8,Shredder-Resistant Paper (Letter Size, 500 sheets),201,1,"Reams of 500 sheets",8.99
+9,Card Stock Paper (Assorted Colors, Letter Size),204,5,"Pack of 100 sheets",7.99
+10,Multi-Purpose Labels (White, 2x4 inch),205,3,"Pack of 500 labels",10.99
+11,Custom Letterhead Paper (Cotton, A4),208,7,"Reams of 500 sheets",29.99
+12,Colored Index Dividers (8-tab),204,3,"Pack of 24 sets",6.49
+13,Watermarked Executive Stationery (A4),207,7,"Pack of 200 sheets",24.99
+14,Pre-Printed Invoice Paper (3-part Carbonless),205,8,"Pack of 500 sets",22.49
+15,Fine Parchment Paper (Letter Size),209,7,"Pack of 100 sheets",14.99
+16,Premium Glossy Photo Paper (4x6),211,6,"Pack of 100 sheets",12.49
+17,Custom Notepads (Lined, 5x8 inch),202,5,"Pack of 10 notepads",12.99
+18,High-Grade Laser Printer Paper (Letter Size),211,1,"Reams of 500 sheets",7.99
+19,Perforated Writing Pads (Yellow, Letter Size),210,5,"Pack of 12 pads",9.99
+20,Handwritten Calligraphy Paper (A4),208,7,"Pack of 50 sheets",19.99
+21,Extra Thick Cardboard (Letter Size),204,5,"Pack of 50 sheets",13.99
+22,Weather-Resistant Labels (3x5 inch),203,3,"Roll of 500 labels",16.99
+23,Glossy Postcards Paper (Letter Size, 4 per page),202,7,"Pack of 500 sheets",14.99
+24,Colored Sticky Notes (Assorted Colors, 3x3 inch),204,4,"Pack of 12 pads",5.99
+25,Laminated ID Card Paper (Credit Card Size),205,6,"Pack of 100 cards",19.99
+26,Heavy-Duty Corrugated Cardboard Sheets,210,8,"Box of 100 sheets",25.99
+27,Waterproof Shipping Labels (4x6 inch),203,3,"Pack of 500 labels",12.99
+28,Standard Letterhead Paper (A4),208,7,"Reams of 500 sheets",27.49
+29,Bulk Packaging Paper (24 inch roll),210,8,"Roll of 100 meters",9.99
+30,Extra Large Mailing Envelopes (Yellow, 12x15 inch),204,3,"Box of 500 envelopes",22.99
+31,Extra Smooth Inkjet Paper (A4),202,1,"Pack of 100 sheets",7.99
+32,Laminated Certificates Paper (Letter Size),209,6,"Pack of 100 sheets",23.99
+33,Invoice Envelopes with Transparent Window,205,3,"Box of 1000 envelopes",19.99
+34,Photo Printing Paper (Glossy, 8x10 inch),211,6,"Pack of 50 sheets",11.49
+35,Bulk Recycled Paper (Letter Size),201,2,"Reams of 1000 sheets",14.99
+36,Colored Copy Paper (A4, Assorted Colors),204,1,"Pack of 500 sheets",12.49
+37,Standard Notebook Paper (College Ruled),202,5,"Pack of 500 sheets",6.99
+38,Wide Ruled Writing Paper (Letter Size),210,5,"Pack of 500 sheets",6.49
+39,Custom Business Cards Paper (Glossy Finish),203,4,"Pack of 1000 cards",19.99
+40,Decorative Stationery Paper (Letter Size),208,7,"Pack of 50 sheets",9.99
+41,Bulk Packing List Envelopes (Clear),210,3,"Box of 1000 envelopes",29.99
+42,Laser Label Sheets (8 per page),205,3,"Pack of 500 labels",13.99
+43,Archival Quality Acid-Free Paper (Letter Size),209,7,"Pack of 100 sheets",18.99
+44,Heat-Resistant Document Protectors,211,6,"Pack of 50 covers",16.49
+45,Bulk Envelopes (Manila, Legal Size),204,3,"Box of 1000 envelopes",14.99
+46,Embossed Executive Letterhead Paper (A4),208,7,"Reams of 500 sheets",24.99
+47,Custom Printed Letterhead Paper (Logo Included),205,7,"Reams of 500 sheets",34.99
+48,Fax Paper Rolls (Thermal, 8.5 inch),202,2,"Pack of 6 rolls",15.99
+49,Heavy-Duty Index Tabs (Letter Size),204,3,"Pack of 100 tabs",9.99
+50,Perforated Edge Paper for Invoices,210,8,"Pack of 500 sheets",14.99
+51,Bulk Copy Paper (Letter Size, 10,000 sheets),201,1,"Box of 10 reams",89.99
+52,Recycled Brown Packing Paper (Roll, 36 inches),210,8,"Roll of 200 meters",19.99
+53,Plastic Report Covers (Clear Front, Letter Size),202,6,"Pack of 100 covers",19.49
+54,Custom Watermarked Stationery (A4),208,7,"Reams of 500 sheets",29.99
+55,Ream of Heavy-Duty Poster Paper (A3),211,1,"Pack of 100 sheets",19.99
+56,Spiral-Bound Notebooks (College Ruled, Letter Size),204,5,"Pack of 10 notebooks",14.99
+57,Windowed Invitation Envelopes (Ivory, A7),203,3,"Box of 500 envelopes",16.99
+58,Decorative Custom Notepads (5x8 inch),202,5,"Pack of 12 notepads",14.49
+59,Water-Resistant Shipping Labels (Letter Size),203,3,"Pack of 500 labels",11.99
+60,Custom Hardcover Presentation Books (Letter Size),209,6,"Pack of 50 books",39.99
+61,Shredder-Resistant Heavy Stock Paper (Letter Size),201,1,"Pack of 500 sheets",13.99
+62,Recycled Paper Filing Folders (Letter Size),205,3,"Box of 100 folders",10.99
+63,Pre-Printed Business Envelopes (Return Address),203,3,"Box of 1000 envelopes",25.99
+64,Glossy Executive Presentation Paper (A4),208,7,"Pack of 250 sheets",24.99
+65,Glossy Photo Paper (A4, 10x8 inch),211,6,"Pack of 100 sheets",14.99
+66,Coloured Legal Paper (Letter Size),202,5,"Pack of 100 sheets",8.99
+67,Ream of Presentation Board Paper (A2),202,1,"Pack of 50 sheets",19.49
+68,Envelopes for Invitations (Silver, #10),203,3,"Box of 500 envelopes",19.99
+69,Heavy-Duty Printable Index Tabs (Letter Size),204,5,"Pack of 200 tabs",18.99
+70,Handwritten Journal Paper (Lined, A5),208,5,"Pack of 10 journals",14.99
+71,White Inkjet Printable Labels (Letter Size),205,3,"Pack of 1000 labels",19.99
+72,Laminated Business Card Paper (Letter Size),203,4,"Pack of 1000 cards",24.99
+73,Heavy Stock Color Paper (Assorted Colors, Letter Size),204,5,"Pack of 500 sheets",17.49
+74,High Quality Brown Shipping Labels (4x6),203,3,"Roll of 1000 labels",19.99
+75,Handwritten Legal Notepads (Yellow, Letter Size),204,5,"Pack of 12 pads",9.99
+76,Glossy Business Presentation Paper (A4),208,7,"Pack of 200 sheets",22.99
+77,Bulk Shredded Packing Paper (Brown),210,8,"Pack of 500 grams",12.99
+78,Clear Presentation Covers (Letter Size),211,6,"Pack of 100 covers",17.99
+79,Extra Heavy-Duty Manila Envelopes (12x15 inch),204,3,"Box of 500 envelopes",27.99
+80,High-Quality Mailing Labels (Letter Size),205,3,"Pack of 1000 labels",21.99
+81,Waterproof Document Covers (A4),211,6,"Pack of 50 covers",20.99
+82,Custom Embossed Stationery (Letter Size),208,7,"Reams of 500 sheets",34.99
+83,Fax Paper Rolls (Thermal, A4),202,2,"Pack of 10 rolls",18.99
+84,Standard Manila Envelopes (Legal Size),204,3,"Box of 500 envelopes",15.99
+85,Photo Paper (Glossy, A3),211,6,"Pack of 100 sheets",17.49
+86,Recycled White Printer Paper (A4),201,2,"Reams of 1000 sheets",10.99
+87,Premium Business Cards (Embossed),203,4,"Pack of 1000 cards",22.99
+88,Custom Printed Index Tabs (Colored),204,5,"Pack of 200 tabs",15.99
+89,Spiral-Bound Legal Pads (Letter Size),202,5,"Pack of 12 pads",11.49
+90,Transparent Shipping Labels (Letter Size),205,3,"Pack of 1000 labels",19.99
+91,Standard White Laser Printer Paper (Letter Size),201,1,"Reams of 500 sheets",7.49
+92,Colored Writing Paper (A4, Assorted Colors),204,1,"Pack of 500 sheets",9.49
+93,High-Quality Presentation Folders (Letter Size),209,6,"Pack of 100 folders",29.99
+94,Customizable Business Cards (Matte Finish),203,4,"Pack of 1000 cards",18.99
+95,Weatherproof Mailing Envelopes (11x17 inch),210,3,"Box of 500 envelopes",34.99
+96,Laminated Document Sheets (Letter Size),211,6,"Pack of 100 sheets",25.99
+97,Perforated Notepad Paper (Legal Size),202,5,"Pack of 500 sheets",12.49
+98,Foam-Backed Poster Board (A3),202,1,"Pack of 10 sheets",22.99
+99,Self-Adhesive Shipping Labels (Letter Size),203,3,"Pack of 500 labels",11.99
+100,Transparent ID Badge Holders (Letter Size),211,6,"Pack of 100 holders",17.99

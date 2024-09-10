@@ -1,0 +1,7 @@
+supplier_id,supplier_name,supplier_contact,supplier_addr_street,supplier_addr_city,supplier_addr_postcode,supplier_addr_country,supplier_phone
+1,Apple Inc.,John Doe,1 Infinite Loop,Cupertino,95014,USA,+1-800-275-2273
+2,Samsung Electronics,Jane Smith,129 Samsung-ro,Suwon-si,443-742,South Korea,+82-2-2255-0114
+3,Sony Corporation,David Johnson,1-7-1 Konan,Minato-ku,108-0075,Japan,+81-3-6748-2111
+4,Dell Technologies,Linda Williams,1 Dell Way,Round Rock,78682,USA,+1-800-999-3355
+5,Logitech International,Michael Brown,EPFL Quartier de l'Innovation,Lausanne,1015,Switzerland,+41-21-863-5111
+6,Anker Innovations,Emily Davis,2711 Centerville Road,Wilmington,19808,USA,+1-800-988-7973

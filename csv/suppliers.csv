@@ -1,7 +1,16 @@
 supplier_id,supplier_name,supplier_contact,supplier_addr_street,supplier_addr_city,supplier_addr_postcode,supplier_addr_country,supplier_phone
-1,Apple Inc.,John Doe,1 Infinite Loop,Cupertino,95014,USA,+1-800-275-2273
-2,Samsung Electronics,Jane Smith,129 Samsung-ro,Suwon-si,443-742,South Korea,+82-2-2255-0114
-3,Sony Corporation,David Johnson,1-7-1 Konan,Minato-ku,108-0075,Japan,+81-3-6748-2111
-4,Dell Technologies,Linda Williams,1 Dell Way,Round Rock,78682,USA,+1-800-999-3355
-5,Logitech International,Michael Brown,EPFL Quartier de l'Innovation,Lausanne,1015,Switzerland,+41-21-863-5111
-6,Anker Innovations,Emily Davis,2711 Centerville Road,Wilmington,19808,USA,+1-800-988-7973
+1,Pennsylvania Paper & Supply Co,info@papaper.com,215 Vine St,Scranton,18503,USA,570-343-1112
+2,Stone Office Inc,contact@stoneofficeinc.com,321 Pear St,Scranton,18505,USA,570-342-1477
+3,One Point Business Solutions,info@onepoint.com,101 Poplar St,Scranton,18509,USA,570-342-0737
+4,Topp Business Solutions,contact@toppbusiness.com,1110 Saginaw St,Scranton,18505,USA,570-344-9611
+5,Northeast Laser Toner & Copier Service,info@northeastlasertoner.com,1201 Marshwood Rd,Throop,18512,USA,570-383-4700
+6,BMC Office Furniture,info@bmcoffice.com,320 E Gibson St,Scranton,18509,USA,570-344-1295
+7,Amjet Supply,contact@amjetsupply.com,52 Fordham Rd,Wilkes-Barre,18702,USA,570-883-9490
+8,Labarre's Stationery Store,info@labarrestationery.com,8 N Main St,Pittston,18640,USA,570-654-1031
+9,Unified Office Equipment Inc,info@unifiedoffice.com,302 N Washington St,Wilkes-Barre,18702,USA,570-822-8888
+10,Northeast Print Supplies,info@northeastprintsupplies.com,457 N Main St,Pittston,18640,USA,570-655-5543
+11,Discount Office Supply Center,info@discountoffice.com,400 Commerce St,Scranton,18503,USA,570-555-4545
+12,Digital Document Solutions,info@digitaldocs.com,8 Market St,Wilkes-Barre,18702,USA,570-371-3899
+13,Best Service Inc,contact@bestservice.com,457 N Main St,Pittston,18640,USA,570-602-2995
+14,Transforce Inc,info@transforceinc.com,1880 Route 315 Hwy,Pittston,18640,USA,570-655-2843
+15,4 The Office,contact@4theoffice.com,457 N Main St,Pittston,18640,USA,570-655-5543
